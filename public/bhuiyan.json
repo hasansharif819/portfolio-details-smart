@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Smart Zone Home",
+        "bullet1": "Navbar is exists all the pages",
+        "bullet2": "In home page using Carousal",
+        "bullet3": "Inventory",
+        "bullet4": "Footer",
+        "img": "https://i.ibb.co/TmHZvSy/smart1.png"
+    },
+    {
+        "id": 2,
+        "name": "Smart Zone Inventory",
+        "bullet1": "All products exists here",
+        "bullet2": "Products Names",
+        "bullet3": "Product price",
+        "bullet4": "Product supplier",
+        "bullet5": "Details Button",
+        "img": "https://i.ibb.co/kHRthFq/smart2.png"
+    },
+    {
+        "id": 3,
+        "name": "Smart Zone Details",
+        "bullet1": "Details about a single product",
+        "bullet2": "Name, brand, price, supplier, description, stock",
+        "bullet3": "Update Button",
+        "bullet4": "Delevered button",
+        "bullet4": "Delte Button",
+        "img": "https://i.ibb.co/Jt9H2cY/smart6.png"
+    },
+    {
+        "id": 4,
+        "name": "Smart Zone Add Inventory",
+        "bullet1": "You can add any inventory",
+        "bullet2": "Inventory name must be provided",
+        "bullet3": "Image must be provided",
+        "img": "https://i.ibb.co/YBs0Sxw/smart3.png"
+    },
+    {
+        "id": 5,
+        "name": "Smart Zone My Item",
+        "bullet1": "My Item",
+        "bullet2": "User can seen all the items which they ordered",
+        "bullet3": "User can cancel his/her ordered",
+        "bullet4": "User name and email id show",
+        "bullet5": "Show users address and contact number",
+        "img": "https://i.ibb.co/rQjthzj/smart4.png"
+    },
+    {
+        "id": 6,
+        "name": "Smart Zone Signin/signout",
+        "bullet1": "Signin/Signout form is opened",
+        "bullet2": "User can signin/signout using email and pass",
+        "bullet3": "User can signin via google",
+        "bullet4": "Without signin users can't redirect to manage Inventory",
+        "bullet5": "In manage inventory, any product could be deleted",
+        "img": "https://i.ibb.co/wRTtNCx/smart5.png"
+    }
+]
